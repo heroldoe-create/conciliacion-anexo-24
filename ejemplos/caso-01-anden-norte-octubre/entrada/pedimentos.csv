@@ -1,0 +1,5 @@
+pedimento,clave,tipo,fecha_pedimento,despacho_concluido,codigo,descripcion,fraccion,cantidad,um
+240-9901-6000210,IN,ENTRADA,2026-10-06,2026-10-06 16:00,MP-03,Etiqueta impresa autoadherible,4821.10.99,5000,pza
+240-9901-6000210,IN,ENTRADA,2026-10-06,2026-10-06 16:00,AF-01,Molde de inyección para carcasa,8480.71.01,1,pza
+240-9901-6000233,IN,ENTRADA,2026-10-13,2026-10-13 10:00,MP-02,Tornillo de acero M4,7318.15.99,8000,pza
+240-9901-6000198,RT,SALIDA,2026-10-09,2026-10-09 15:00,PT-01,Carcasa de polipropileno ensamblada,8538.90.99,2000,pza
